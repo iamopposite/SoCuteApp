@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "cat_head_png__by_madcatmd_datnw9e.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "cat_head_png__by_madcatmd_datnw9e@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "cat_head_png__by_madcatmd_datnw9e@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
